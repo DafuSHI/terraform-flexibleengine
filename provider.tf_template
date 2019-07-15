@@ -1,0 +1,11 @@
+ provider "flexibleengine" {
+  user_name = "xxxxx"
+  domain_name = "xxxxxxx"
+  tenant_name = "xxxxxxxxxxx"
+  access_key = "xxxxxxxxxxxxxx"
+  secret_key = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  
+  auth_url = "https://iam.eu-west-0.prod-cloud-ocb.orange-business.com/v3"
+  region = "eu-west-0"
+  }
+
